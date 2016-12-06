@@ -460,7 +460,7 @@ public class NewJFrame extends javax.swing.JFrame {
     }//GEN-LAST:event_RunMacTransferActionPerformed
 
     private void RunWindowsTransferActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_RunWindowsTransferActionPerformed
-        String command[] = {scriptDirStr + "/transferToInvestigatorReady.bat",ProjID.getText(),scriptDirStr +"/",projDirStr+"/",InvDirStr+"/"};
+        String command[] = {scriptDirStr + "\\transferToInvestigatorReady.bat",ProjID.getText(),scriptDirStr,projDirStr,InvDirStr};
         //command[] = {1,2,3};
         //command = {scriptDir + "/./testShell.sh",projDir,DestDir,ECnonNorm,ECnorm,ProjID};
         System.out.print(Arrays.toString(command));

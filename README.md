@@ -9,7 +9,9 @@ Even if I don't work here anymore, please email me with troubleshooting question
 
 If you are a member of Bcore, clone the IGLTools repo. from our Gitlab instance: `git clone http://gitlab.bcore.ohsu.edu/bcore/IGLtools.git`. 
 
-There is also a working version on Box [here](https://ohsu.box.com/s/7xgreyyd4lji6xh5yubeucgx6elfxil9) (last updated 11/21/2016). 
+There is also a working version on Box at [https://ohsu.box.com/s/7xgreyyd4lji6xh5yubeucgx6elfxil9](https://ohsu.box.com/s/7xgreyyd4lji6xh5yubeucgx6elfxil9) (last updated 12/1/2016). 
+
+And a video tutorial in that same Box folder at [https://ohsu.box.com/s/78gi3mjwf38gjboasty3ni4b43loadrk](https://ohsu.box.com/s/78gi3mjwf38gjboasty3ni4b43loadrk) (last updated 12/1/2016).
 
 ### Install Python and R
 
